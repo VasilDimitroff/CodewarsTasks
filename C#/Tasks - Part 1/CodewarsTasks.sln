@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square(n)Sum", "Square(n)Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberToReversedArrayOfDigits", "ConvertNumberToReversedArrayOfDigits\ConvertNumberToReversedArrayOfDigits.csproj", "{B3A2B5C7-3CD4-475A-A83A-798E07897C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSheep", "CountingSheep\CountingSheep.csproj", "{3C668C64-D42B-4C55-985D-D7738D08E7E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B3A2B5C7-3CD4-475A-A83A-798E07897C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A2B5C7-3CD4-475A-A83A-798E07897C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A2B5C7-3CD4-475A-A83A-798E07897C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C668C64-D42B-4C55-985D-D7738D08E7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C668C64-D42B-4C55-985D-D7738D08E7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C668C64-D42B-4C55-985D-D7738D08E7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C668C64-D42B-4C55-985D-D7738D08E7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
