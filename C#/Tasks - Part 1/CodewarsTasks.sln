@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplesOf3Or5", "Multiple
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square(n)Sum", "Square(n)Sum\Square(n)Sum.csproj", "{61277898-AD0C-46C4-B157-AB21ADBEA35C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberToReversedArrayOfDigits", "ConvertNumberToReversedArrayOfDigits\ConvertNumberToReversedArrayOfDigits.csproj", "{B3A2B5C7-3CD4-475A-A83A-798E07897C06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertNumberToReversedArrayOfDigits", "ConvertNumberToReversedArrayOfDigits\ConvertNumberToReversedArrayOfDigits.csproj", "{B3A2B5C7-3CD4-475A-A83A-798E07897C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSheep", "CountingSheep\CountingSheep.csproj", "{3C668C64-D42B-4C55-985D-D7738D08E7E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSheep", "CountingSheep\CountingSheep.csproj", "{3C668C64-D42B-4C55-985D-D7738D08E7E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppositesAttract", "OppositesAttract\OppositesAttract.csproj", "{4075BBC9-6990-4D2E-A710-08C713163C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OppositesAttract", "OppositesAttract\OppositesAttract.csproj", "{4075BBC9-6990-4D2E-A710-08C713163C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits-Digital Root", "SumOfDigits-Digital Root\SumOfDigits-Digital Root.csproj", "{05CA6887-980A-489D-8D9E-D7E3651FB7B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4075BBC9-6990-4D2E-A710-08C713163C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4075BBC9-6990-4D2E-A710-08C713163C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4075BBC9-6990-4D2E-A710-08C713163C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CA6887-980A-489D-8D9E-D7E3651FB7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CA6887-980A-489D-8D9E-D7E3651FB7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CA6887-980A-489D-8D9E-D7E3651FB7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CA6887-980A-489D-8D9E-D7E3651FB7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
