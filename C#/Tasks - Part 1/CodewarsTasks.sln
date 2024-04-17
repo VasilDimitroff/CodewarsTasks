@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSheep", "CountingSh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OppositesAttract", "OppositesAttract\OppositesAttract.csproj", "{4075BBC9-6990-4D2E-A710-08C713163C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits-Digital Root", "SumOfDigits-Digital Root\SumOfDigits-Digital Root.csproj", "{05CA6887-980A-489D-8D9E-D7E3651FB7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigits-Digital Root", "SumOfDigits-Digital Root\SumOfDigits-Digital Root.csproj", "{05CA6887-980A-489D-8D9E-D7E3651FB7B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheParityOutlier", "FindTheParityOutlier\FindTheParityOutlier.csproj", "{AB975AB0-AD7B-43FF-84A7-A1A0B51DF74A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheParityOutlier", "FindTheParityOutlier\FindTheParityOutlier.csproj", "{AB975AB0-AD7B-43FF-84A7-A1A0B51DF74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberТоString", "ConvertNumberТоString\ConvertNumberТоString.csproj", "{CCD06F58-4E18-4300-ACB0-5173D284D69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPValidation", "IPValidation\IPValidation.csproj", "{51BA39FC-DE4F-42E2-9195-16A70B599AD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{AB975AB0-AD7B-43FF-84A7-A1A0B51DF74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB975AB0-AD7B-43FF-84A7-A1A0B51DF74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB975AB0-AD7B-43FF-84A7-A1A0B51DF74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD06F58-4E18-4300-ACB0-5173D284D69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD06F58-4E18-4300-ACB0-5173D284D69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD06F58-4E18-4300-ACB0-5173D284D69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD06F58-4E18-4300-ACB0-5173D284D69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BA39FC-DE4F-42E2-9195-16A70B599AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BA39FC-DE4F-42E2-9195-16A70B599AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BA39FC-DE4F-42E2-9195-16A70B599AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BA39FC-DE4F-42E2-9195-16A70B599AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
